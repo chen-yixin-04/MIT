@@ -1,0 +1,29 @@
+
+.immagine { 
+    display:flex;
+justify-content: space-around; } 
+
+.immagine { 
+    border-radius: 10px; } 
+
+.centro { 
+    text-align: center; } 
+     
+
+.info { color:rgba(255, 0, 0, 0.527);
+    font-family: Arial;
+    font-size: 24pt; } 
+
+.titolo { color:orangered;
+        font-family: Arial;
+        font-size: 40pt; } 
+    
+        
+h1 { 
+    background-color: aqua;
+    border-radius: 20px;
+    color:blueviolet;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+
